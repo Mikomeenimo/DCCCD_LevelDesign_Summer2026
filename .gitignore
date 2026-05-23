@@ -72,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Input/Touch/BPI_TouchInterface.uasset
+Content/Input/Touch/UI_Thumbstick.uasset
+Content/Input/Touch/UI_TouchSimple.uasset
